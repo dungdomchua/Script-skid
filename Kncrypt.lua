@@ -15,13 +15,13 @@ local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-
 local win = lib.new('Key System had skid');
 
 win.AddButton('Get Key',function()
-    (setclipboard or toclipboard)('dungx a skidder bad');
+    (setclipboard or toclipboard)('dungx is a skidder bad');
 end);
 
 win.AddButton('Login',function(a)
     task.delay(1,function() a.Close(); end);
     
-    script_key=dungx a skidder bad;
+    script_key=dungx is a skidder bad;
     
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/84540224acb21db4b7ffadb76a63fefd.lua"))();
 end);
