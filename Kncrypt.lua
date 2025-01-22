@@ -10,7 +10,7 @@
                                                                                                                                
 ]]
 
-local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/lib/AuthLib.lua'))();
+local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/lib/AuthLib.lua'))()
 
 local win = lib.new('Key System had skid');
 
