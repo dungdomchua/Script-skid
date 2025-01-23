@@ -10,18 +10,18 @@
                                                                                                                                
 ]]
 
-local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/lib/AuthLib.lua'))()
+local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/lib/AuthLib.lua'))();
 
-local win = lib.new('Key System had skid');
+local win = lib.new('Key had skid');
 
 win.AddButton('Get Key',function()
-    (setclipboard or toclipboard)('dungx is a skidder bad');
+    (setclipboard or toclipboard)('dungxdz');
 end);
 
 win.AddButton('Login',function(a)
     task.delay(1,function() a.Close(); end);
     
-    script_key=dungx is a skidder bad;
+    script_key=dungxdz;
     
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/84540224acb21db4b7ffadb76a63fefd.lua"))();
 end);
@@ -60,4 +60,4 @@ if request then
 					args = {code = 'wPaQZwhMHy'}
 				})
 			})
-	end
+end
